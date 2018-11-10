@@ -1,0 +1,2 @@
+module Contenido::EntradasHelper
+end
